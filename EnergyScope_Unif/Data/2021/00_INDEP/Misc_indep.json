@@ -1,0 +1,5 @@
+{
+	"gwp_limit_overall": 1e15,
+	"loss_network" : {"ELECTRICITY": 0.159575609, "HEAT_LOW_T_DHN": 5.0E-02},
+	"vehicule_capacity": {"CAR_PHEV": 50.4, "CAR_BEV": 50.4, "SUV_ELEC_PRIVATE": 50.4, "MOTORCYCLE_ELEC_PRIVATE": 50.4, "BUS_ELEC_PUBLIC": 360}				
+}

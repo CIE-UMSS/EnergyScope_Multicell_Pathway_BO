@@ -1,0 +1,27 @@
+Category;Subcategory;parameter name;HOUSEHOLDS;SERVICES;INDUSTRY;TRANSPORTATION;PUBLIC_LIGHTING;AGRICULTURE;MINING;FISHING_OTHERS;Units
+Electricity;Electricity;ELECTRICITY;828.8166051;1080.525322;26.11159978;0;0;0;0;0;[GWh]
+Lighting;Building lighting;LIGHTING_R_C;48.24533492;30.13594687;26.73041022;0;0;0;0;0;[GWh]
+Lighting;Public lighting;LIGHTING_P;0;2.669403097;0;0;51.61573875;0;0;0;[GWh]
+Heat;High temperature;HEAT_HIGH_T;0;0;13192.22886;0;0;0;0;0;[GWh]
+Heat;Space heating;HEAT_LOW_T_SH;21.24643218;0;0;0;0;0;0;0;[GWh]
+Heat;Hot water;HEAT_LOW_T_HW;1166.639294;137.4134233;0;0;0;0;0;0;[GWh]
+Heat;Cooking;COOKING;4743.548273;304.1741743;0;0;0;0;0;0;[GWh]
+Cold;Process cooling;PROCESS_COOLING;0;0;0;0;0;0;0;0;[GWh]
+Cold;Space cooling;SPACE_COOLING;991.3920331;0;0;0;0;0;0;0;[GWh]
+Cold;Food preservation;FOOD_PRESERVATION;341.8804503;0;0;0;0;0;0;0;[GWh]
+Mobility;Passenger;MOBILITY_PASSENGER;0;0;0;345915.996943261000000000;0;0;0;0;[Mpkm]
+Mobility;Freight;MOBILITY_FREIGHT;0;0;0;14876.451928259400000000;0;0;0;0;[Mtkm]
+Mobility;Long-haul passenger flights;AVIATION_LONG_HAUL;0;0;0;0.000000000000000000;0;0;0;0;[Mpkm]
+Mobility;International shipping;SHIPPING;0;0;0;107.908791114948000000;0;0;0;0;[Mtkm]
+Mechanical;Mechanical energy commercial;MECHANICAL_ENERGY_COMM;0;77.00194642;0;0;0;0;0;0;[GWh]
+Mechanical;Mechanical energy industrial;MECHANICAL_ENERGY_IND;0;0;1581.451346;0;0;0;0;0;[GWh]
+Mechanical;Mechanical energy agriculture mobility;MECHANICAL_ENERGY_MOV_AGR;0;0;0;0;0;50.119291;0;0;[GWh]
+Mechanical;Mechanical energy agriculture fixed;MECHANICAL_ENERGY_FIX_AGR;0;0;0;0;0;228.963688;0;0;[GWh]
+Mechanical;Mechanical energy mining;MECHANICAL_ENERGY_MIN;0;0;0;0;0;0;1549.33326;0;[GWh]
+Mechanical;Mechanical energy fishing;MECHANICAL_ENERGY_FISH_OTHERS;0;0;0;0;0;0;0;449.5612845;[GWh]
+Non-energy;Non-energy;NON_ENERGY;0;0;671.0998006;0;0;0;0;0;[GWh]
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;135.1492677;4.65661E-10;;;;;
+;;;;;;0.00139652;;;;;
+;;;;;15011.601195991900000;-1.7053E-13;;;;;

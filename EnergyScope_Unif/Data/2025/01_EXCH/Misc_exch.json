@@ -1,0 +1,15 @@
+{
+	"retro_gas_to_h2": 0.629,
+	"add_sets" : {"EXCHANGE_FREIGHT_R": ["GASOLINE", "DIESEL", "LFO", "JET_FUEL", "AMMONIA", "METHANOL", "WOOD", "CO2_CAPTURED", "LNG", "LPG"],
+	              "EXCHANGE_NETWORK_R": ["ELECTRICITY", "GAS", "H2", "DIESEL", "GASOLINE", "LPG", "LFO", "JET_FUEL"],
+				  "NETWORK_TYPE": {"ELECTRICITY": ["HVAC_LINE", "HVDC_SUBSEA"],
+					  			   "GAS": ["GAS_PIPELINE", "GAS_SUBSEA"],
+								   "DIESEL": ["DIESEL_PIPELINE"],
+								   "GASOLINE": ["GASOLINE_PIPELINE"],
+								   "LPG": ["LPG_PIPELINE"],
+								   "LFO": ["LFO_PIPELINE"],
+								   "JET_FUEL": ["JET_FUEL_PIPELINE"],
+					  	 	       "H2": ["H2_RETROFITTED", "H2_NEW", "H2_SUBSEA_RETRO", "H2_SUBSEA_NEW"]
+				  }
+	}
+}

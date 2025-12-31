@@ -1,0 +1,47 @@
+# File containing miscellaneous sets and parameters
+ set  REGIONS  :=  	SA-BN	SA-PA	SA-SC	SA-TJ	SIN; 
+  
+ set  RWITHOUTDAM  :=  	SA-BN	SA-PA	SA-SC	SA-TJ;#  Regions  without  hydro  dam 
+  
+param share_ned :	HVC	METHANOL	AMMONIA := 
+SA-BN	1.0	0.0	0.0
+SA-PA	1.0	0.0	0.0
+SA-SC	1.0	0.0	0.0
+SA-TJ	1.0	0.0	0.0
+SIN	1.0	0.0	0.0
+;
+param :	gwp_limit	import_capacity	re_share_primary	share_freight_boat_max := 
+SA-BN	Infinity	2.0	0.0	0.0
+SA-PA	Infinity	2.0	0.0	0.0216
+SA-SC	Infinity	2.0	0.0	0.0
+SA-TJ	Infinity	2.0	0.0	0.0
+SIN	Infinity	700.0	0.0	0.00355
+;
+param :	share_freight_boat_min	share_freight_road_max	share_freight_road_min	share_freight_train_max := 
+SA-BN	0.0	1.0	0.0	0.0
+SA-PA	0.021	0.97841	0.978	0.0
+SA-SC	0.0	1.0	0.0	0.0
+SA-TJ	0.0	1.0	0.0	0.0
+SIN	0.003	0.9426	0.942	0.05387
+;
+param :	share_freight_train_min	share_heat_dhn_max	share_heat_dhn_min	share_mobility_public_max := 
+SA-BN	0.0	0.0	0.0	0.0
+SA-PA	0.0	0.0	0.0	0.72989
+SA-SC	0.0	0.0	0.0	0.0
+SA-TJ	0.0	0.0	0.0	0.0
+SIN	0.053	0.0	0.0	0.90173
+;
+param :	share_mobility_public_min	share_short_haul_flights_max	share_short_haul_flights_min	solar_area_ground := 
+SA-BN	0.0	0.0	0.0	47764.3913
+SA-PA	0.729	0.03006	0.03	47764.3913
+SA-SC	0.0	0.0	0.0	47764.3913
+SA-TJ	0.0	0.0	0.0	47764.3913
+SIN	0.901	0.00606	0.006	47764.3913
+;
+param :	solar_area_ground_high_irr	solar_area_rooftop := 
+SA-BN	0.0	47764.3913
+SA-PA	0.0	47764.3913
+SA-SC	0.0	47764.3913
+SA-TJ	0.0	47764.3913
+SIN	0.0	47764.3913
+;

@@ -1,0 +1,387 @@
+25/11/19 17:44:01 [INFO    ] (__init__): Initialized YearDataGenerator for year 2015
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): 
+======================================================================
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): GENERATING .DAT FILES FOR YEAR 2015
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): ======================================================================
+
+25/11/19 17:44:01 [INFO    ] (read_data_indep): Reading indep data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/00_INDEP
+25/11/19 17:44:01 [INFO    ] (init_regions): Initializing regions: SA-BN, SA-PA, SA-SC, SA-TJ, SIN
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/02_REF_REGION
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/SA-BN
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/SA-PA
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/SA-SC
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/SA-TJ
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/SIN
+25/11/19 17:44:01 [INFO    ] (build_sets): Building sets from data
+25/11/19 17:44:01 [INFO    ] (print_indep_dat): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/indep.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_data): Printing regional data
+25/11/19 17:44:01 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/reg_demands.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/reg_resources.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/reg_technologies.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/reg_storage_power_to_energy.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_misc): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/reg_misc.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_exch): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015/reg_exch.dat
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): 
+[OK] Successfully generated all .dat files for year 2015
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): Output directory: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2015
+
+25/11/19 17:44:01 [INFO    ] (__init__): Initialized YearDataGenerator for year 2021
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): 
+======================================================================
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): GENERATING .DAT FILES FOR YEAR 2021
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): ======================================================================
+
+25/11/19 17:44:01 [INFO    ] (read_data_indep): Reading indep data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/00_INDEP
+25/11/19 17:44:01 [INFO    ] (init_regions): Initializing regions: SA-BN, SA-PA, SA-SC, SA-TJ, SIN
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/02_REF_REGION
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SA-BN
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SA-PA
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SA-SC
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SA-TJ
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SIN
+25/11/19 17:44:01 [INFO    ] (build_sets): Building sets from data
+25/11/19 17:44:01 [INFO    ] (print_indep_dat): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/indep.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_data): Printing regional data
+25/11/19 17:44:01 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/reg_demands.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/reg_resources.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/reg_technologies.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/reg_storage_power_to_energy.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_misc): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/reg_misc.dat
+25/11/19 17:44:01 [INFO    ] (print_reg_exch): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/reg_exch.dat
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): 
+[OK] Successfully generated all .dat files for year 2021
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): Output directory: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021
+
+25/11/19 17:44:01 [INFO    ] (__init__): Initialized YearDataGenerator for year 2025
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): 
+======================================================================
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): GENERATING .DAT FILES FOR YEAR 2025
+25/11/19 17:44:01 [INFO    ] (generate_all_dat_files): ======================================================================
+
+25/11/19 17:44:01 [INFO    ] (read_data_indep): Reading indep data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/00_INDEP
+25/11/19 17:44:01 [INFO    ] (init_regions): Initializing regions: SA-BN, SA-PA, SA-SC, SA-TJ, SIN
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/02_REF_REGION
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/SA-BN
+25/11/19 17:44:01 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/SA-PA
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/SA-SC
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/SA-TJ
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/SIN
+25/11/19 17:44:02 [INFO    ] (build_sets): Building sets from data
+25/11/19 17:44:02 [INFO    ] (print_indep_dat): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/indep.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_data): Printing regional data
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/reg_demands.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/reg_resources.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/reg_technologies.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/reg_storage_power_to_energy.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_misc): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/reg_misc.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_exch): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025/reg_exch.dat
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+[OK] Successfully generated all .dat files for year 2025
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): Output directory: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2025
+
+25/11/19 17:44:02 [INFO    ] (__init__): Initialized YearDataGenerator for year 2030
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+======================================================================
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): GENERATING .DAT FILES FOR YEAR 2030
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): ======================================================================
+
+25/11/19 17:44:02 [INFO    ] (read_data_indep): Reading indep data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/00_INDEP
+25/11/19 17:44:02 [INFO    ] (init_regions): Initializing regions: SA-BN, SA-PA, SA-SC, SA-TJ, SIN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/02_REF_REGION
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/SA-BN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/SA-PA
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/SA-SC
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/SA-TJ
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/SIN
+25/11/19 17:44:02 [INFO    ] (build_sets): Building sets from data
+25/11/19 17:44:02 [INFO    ] (print_indep_dat): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/indep.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_data): Printing regional data
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/reg_demands.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/reg_resources.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/reg_technologies.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/reg_storage_power_to_energy.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_misc): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/reg_misc.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_exch): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030/reg_exch.dat
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+[OK] Successfully generated all .dat files for year 2030
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): Output directory: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2030
+
+25/11/19 17:44:02 [INFO    ] (__init__): Initialized YearDataGenerator for year 2035
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+======================================================================
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): GENERATING .DAT FILES FOR YEAR 2035
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): ======================================================================
+
+25/11/19 17:44:02 [INFO    ] (read_data_indep): Reading indep data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/00_INDEP
+25/11/19 17:44:02 [INFO    ] (init_regions): Initializing regions: SA-BN, SA-PA, SA-SC, SA-TJ, SIN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/02_REF_REGION
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/SA-BN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/SA-PA
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/SA-SC
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/SA-TJ
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/SIN
+25/11/19 17:44:02 [INFO    ] (build_sets): Building sets from data
+25/11/19 17:44:02 [INFO    ] (print_indep_dat): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/indep.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_data): Printing regional data
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/reg_demands.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/reg_resources.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/reg_technologies.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/reg_storage_power_to_energy.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_misc): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/reg_misc.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_exch): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035/reg_exch.dat
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+[OK] Successfully generated all .dat files for year 2035
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): Output directory: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2035
+
+25/11/19 17:44:02 [INFO    ] (__init__): Initialized YearDataGenerator for year 2040
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+======================================================================
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): GENERATING .DAT FILES FOR YEAR 2040
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): ======================================================================
+
+25/11/19 17:44:02 [INFO    ] (read_data_indep): Reading indep data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/00_INDEP
+25/11/19 17:44:02 [INFO    ] (init_regions): Initializing regions: SA-BN, SA-PA, SA-SC, SA-TJ, SIN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/02_REF_REGION
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/SA-BN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/SA-PA
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/SA-SC
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/SA-TJ
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/SIN
+25/11/19 17:44:02 [INFO    ] (build_sets): Building sets from data
+25/11/19 17:44:02 [INFO    ] (print_indep_dat): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/indep.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_data): Printing regional data
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/reg_demands.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/reg_resources.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/reg_technologies.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/reg_storage_power_to_energy.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_misc): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/reg_misc.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_exch): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040/reg_exch.dat
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+[OK] Successfully generated all .dat files for year 2040
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): Output directory: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2040
+
+25/11/19 17:44:02 [INFO    ] (__init__): Initialized YearDataGenerator for year 2045
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+======================================================================
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): GENERATING .DAT FILES FOR YEAR 2045
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): ======================================================================
+
+25/11/19 17:44:02 [INFO    ] (read_data_indep): Reading indep data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/00_INDEP
+25/11/19 17:44:02 [INFO    ] (init_regions): Initializing regions: SA-BN, SA-PA, SA-SC, SA-TJ, SIN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/02_REF_REGION
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/SA-BN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/SA-PA
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/SA-SC
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/SA-TJ
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/SIN
+25/11/19 17:44:02 [INFO    ] (build_sets): Building sets from data
+25/11/19 17:44:02 [INFO    ] (print_indep_dat): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/indep.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_data): Printing regional data
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/reg_demands.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/reg_resources.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/reg_technologies.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/reg_storage_power_to_energy.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_misc): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/reg_misc.dat
+25/11/19 17:44:02 [INFO    ] (print_reg_exch): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045/reg_exch.dat
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+[OK] Successfully generated all .dat files for year 2045
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): Output directory: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2045
+
+25/11/19 17:44:02 [INFO    ] (__init__): Initialized YearDataGenerator for year 2050
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): 
+======================================================================
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): GENERATING .DAT FILES FOR YEAR 2050
+25/11/19 17:44:02 [INFO    ] (generate_all_dat_files): ======================================================================
+
+25/11/19 17:44:02 [INFO    ] (read_data_indep): Reading indep data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/00_INDEP
+25/11/19 17:44:02 [INFO    ] (init_regions): Initializing regions: SA-BN, SA-PA, SA-SC, SA-TJ, SIN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/02_REF_REGION
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/SA-BN
+25/11/19 17:44:02 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/SA-PA
+25/11/19 17:44:03 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/SA-SC
+25/11/19 17:44:03 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/SA-TJ
+25/11/19 17:44:03 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/SIN
+25/11/19 17:44:03 [INFO    ] (build_sets): Building sets from data
+25/11/19 17:44:03 [INFO    ] (print_indep_dat): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/indep.dat
+25/11/19 17:44:03 [INFO    ] (print_reg_data): Printing regional data
+25/11/19 17:44:03 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/reg_demands.dat
+25/11/19 17:44:03 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/reg_resources.dat
+25/11/19 17:44:03 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/reg_technologies.dat
+25/11/19 17:44:03 [INFO    ] (print_reg_file): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/reg_storage_power_to_energy.dat
+25/11/19 17:44:03 [INFO    ] (print_reg_misc): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/reg_misc.dat
+25/11/19 17:44:03 [INFO    ] (print_reg_exch): Printing /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050/reg_exch.dat
+25/11/19 17:44:03 [INFO    ] (generate_all_dat_files): 
+[OK] Successfully generated all .dat files for year 2050
+25/11/19 17:44:03 [INFO    ] (generate_all_dat_files): Output directory: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2050
+
+25/11/19 17:44:03 [INFO    ] (__init__): EsmcPathway initialized for years: ['2015', '2021', '2025', '2030', '2035', '2040', '2045', '2050']
+25/11/19 17:44:03 [INFO    ] (__init__): Output directory: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050
+25/11/19 17:44:03 [INFO    ] (read_data_indep): Reading independent data from year 2021
+25/11/19 17:44:03 [INFO    ] (read_data_indep): Independent data read successfully
+25/11/19 17:44:03 [INFO    ] (init_regions): Initialising regions from year 2021: SIN, SA-BN, SA-PA, SA-TJ, SA-SC
+25/11/19 17:44:03 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/02_REF_REGION
+25/11/19 17:44:03 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SIN
+25/11/19 17:44:03 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SA-BN
+25/11/19 17:44:03 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SA-PA
+25/11/19 17:44:03 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SA-TJ
+25/11/19 17:44:03 [INFO    ] (read_data): Read data from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/Data/2021/SA-SC
+25/11/19 17:44:03 [INFO    ] (init_regions): Regions initialized successfully
+25/11/19 17:44:03 [INFO    ] (init_ta): Initializing TemporalAggregation with read algorithm
+25/11/19 17:44:03 [WARNING ] (init_ta): TD file not found: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/00_td_dat/TD_of_days_16.out
+25/11/19 17:44:03 [WARNING ] (init_ta): Automatically switching to algo=kmedoid to generate TD files
+25/11/19 17:44:03 [INFO    ] (init_ta): Will generate TD files using kmedoid clustering
+25/11/19 17:44:03 [INFO    ] (_validate_time_series_mapping): Available technologies: 269 technologies found
+25/11/19 17:44:03 [INFO    ] (_validate_time_series_mapping):   res_params: WIND_ONSHORE -> WIND_ONSHORE [OK]
+25/11/19 17:44:03 [INFO    ] (_validate_time_series_mapping):   res_params: WIND_OFFSHORE -> WIND_OFFSHORE [OK]
+25/11/19 17:44:03 [INFO    ] (_validate_time_series_mapping):   res_params: HYDRO_DAM -> HYDRO_DAM [OK]
+25/11/19 17:44:03 [INFO    ] (_validate_time_series_mapping):   res_params: HYDRO_RIVER -> HYDRO_RIVER [OK]
+25/11/19 17:44:03 [INFO    ] (_validate_time_series_mapping):   res_mult_params: PV -> ['PV_ROOFTOP', 'PV_UTILITY'] [2/2 techs found]
+25/11/19 17:44:03 [INFO    ] (_validate_time_series_mapping):   res_mult_params: TIDAL -> ['TIDAL_STREAM', 'TIDAL_RANGE'] [2/2 techs found]
+25/11/19 17:44:03 [INFO    ] (_validate_time_series_mapping):   res_mult_params: SOLAR -> ['DHN_SOLAR', 'DEC_SOLAR', 'PT_COLLECTOR', 'ST_COLLECTOR'] [4/5 techs found]
+25/11/19 17:44:03 [INFO    ] (_validate_time_series_mapping): Validation complete: 4 res_params, 3 res_mult_params
+25/11/19 17:44:03 [INFO    ] (kmedoid_clustering): Starting kmedoid clustering of typical days based on /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/00_td_dat/data_16.dat
+25/11/19 17:44:23 [INFO    ] (kmedoid_clustering): End of typical days clustering
+25/11/19 17:44:23 [INFO    ] (__init__): The typical days clustering has an time series error of 0.08905906477660672
+25/11/19 17:44:23 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+25/11/19 17:44:23 [INFO    ] (init_ta): Temporal aggregation initialized with 16 typical days
+25/11/19 17:44:23 [INFO    ] (init_ta): Time series error: 0.08905906477660672
+25/11/19 17:44:23 [INFO    ] (read_td_of_days): Reading typical days from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/00_td_dat/TD_of_days_16.out
+25/11/19 17:44:23 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+25/11/19 17:44:23 [INFO    ] (__init__): SimpleTemporalAggregation initialized with 16 typical days
+25/11/19 17:44:23 [INFO    ] (init_ta): SimpleTemporalAggregation initialized successfully
+25/11/19 17:44:23 [INFO    ] (print_td_data): Printing TD data to /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/reg_16TD.dat
+25/11/19 17:44:23 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+25/11/19 17:44:23 [INFO    ] (print_td_data): TD data written to /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/reg_16TD.dat
+25/11/19 17:44:23 [INFO    ] (read_td_of_days): Reading typical days from /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/00_td_dat/TD_of_days_16.out
+25/11/19 17:44:23 [INFO    ] (generate_t_h_td): t_h_td and td_count generated
+25/11/19 17:44:23 [INFO    ] (__init__): SimpleTemporalAggregation initialized with 16 typical days
+25/11/19 17:44:23 [INFO    ] (print_td_data): SimpleTemporalAggregation initialized for result extraction
+25/11/19 17:44:23 [INFO    ] (process_pathway_data): Processing pathway data from existing .dat files
+25/11/19 17:44:23 [INFO    ] (_process_indep_dat): Successfully processed indep.dat to /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/indep_pathway.dat
+25/11/19 17:44:23 [INFO    ] (process_reg_demands_dat_for_pathway): Processing reg_demands.dat for year 2015
+25/11/19 17:44:23 [INFO    ] (process_reg_demands_dat_for_pathway): Processing reg_demands.dat for year 2021
+25/11/19 17:44:23 [INFO    ] (process_reg_demands_dat_for_pathway): Processing reg_demands.dat for year 2025
+25/11/19 17:44:23 [INFO    ] (process_reg_demands_dat_for_pathway): Processing reg_demands.dat for year 2030
+25/11/19 17:44:23 [INFO    ] (process_reg_demands_dat_for_pathway): Processing reg_demands.dat for year 2035
+25/11/19 17:44:23 [INFO    ] (process_reg_demands_dat_for_pathway): Processing reg_demands.dat for year 2040
+25/11/19 17:44:23 [INFO    ] (process_reg_demands_dat_for_pathway): Processing reg_demands.dat for year 2045
+25/11/19 17:44:23 [INFO    ] (process_reg_demands_dat_for_pathway): Processing reg_demands.dat for year 2050
+25/11/19 17:44:23 [INFO    ] (process_reg_demands_dat_for_pathway): Successfully processed reg_demands.dat to /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/reg_demands_pathway.dat
+25/11/19 17:44:23 [INFO    ] (_process_resources_dat): Successfully processed reg_resources.dat to /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/reg_resources_pathway.dat
+25/11/19 17:44:24 [INFO    ] (_process_technologies_dat): Successfully processed technologies data to /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/reg_technologies_pathway.dat
+25/11/19 17:44:24 [INFO    ] (_process_exchanges_dat): Successfully processed reg_exch.dat to /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/reg_exchanges_pathway.dat
+25/11/19 17:44:24 [INFO    ] (_process_misc_dat): Successfully processed misc data to /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/reg_misc_pathway.dat
+25/11/19 17:44:24 [INFO    ] (_process_storage_dat): Successfully processed storage data to /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/reg_storage_pathway.dat
+25/11/19 17:44:24 [INFO    ] (_copy_pathway_files): Copied PES_seq_opti.dat to output directory
+25/11/19 17:44:24 [INFO    ] (_copy_pathway_files): Copied PES_data_remaining.dat to output directory
+25/11/19 17:44:24 [INFO    ] (_copy_pathway_files): Copied PES_data_all_years.dat to output directory
+25/11/19 17:44:24 [INFO    ] (_copy_pathway_files): Copied PES_data_set_AGE_2021.dat to output directory
+25/11/19 17:44:24 [INFO    ] (_copy_pathway_files): Copied PES_data_decom_allowed_2021.dat to output directory
+25/11/19 17:44:24 [INFO    ] (process_pathway_data): All pathway data processed successfully
+25/11/19 17:44:24 [INFO    ] (set_esom_pathway): Setting up AMPL with 2 model files and 13 data files
+25/11/19 17:44:24 [INFO    ] (set_esom_pathway): AMPL model configured successfully
+25/11/19 17:44:24 [INFO    ] (solve_esom_pathway): Starting pathway optimization...
+25/11/19 20:12:25 [INFO    ] (save_ampl_results): Saving AMPL results to cache...
+25/11/19 20:12:25 [INFO    ] (save_ampl_results):   Solver status: solved
+25/11/19 20:12:25 [INFO    ] (save_ampl_results):   Extracting variables...
+25/11/19 20:12:25 [INFO    ] (save_ampl_results):     ✓ F: 10760 rows
+25/11/19 20:12:38 [INFO    ] (save_ampl_results):     ✓ F_t: 4131840 rows
+25/11/19 20:12:38 [INFO    ] (save_ampl_results):     ✓ TotalCost: 40 rows
+25/11/19 20:12:38 [INFO    ] (save_ampl_results):     ✓ C_inv: 10760 rows
+25/11/19 20:12:38 [INFO    ] (save_ampl_results):     ✓ C_maint: 10760 rows
+25/11/19 20:12:38 [INFO    ] (save_ampl_results):     ✓ C_op: 1560 rows
+25/11/19 20:12:38 [INFO    ] (save_ampl_results):     ✓ GWP_constr: 10760 rows
+25/11/19 20:12:39 [INFO    ] (save_ampl_results):     ✓ GWP_op: 1560 rows
+25/11/19 20:12:39 [INFO    ] (save_ampl_results):     ✓ CO2_net: 1560 rows
+25/11/19 20:12:40 [INFO    ] (save_ampl_results):     ✓ R_t_local: 599040 rows
+25/11/19 20:12:42 [INFO    ] (save_ampl_results):     ✓ R_t_exterior: 599040 rows
+25/11/19 20:12:46 [INFO    ] (save_ampl_results):     ✓ Exch_imp: 998400 rows
+25/11/19 20:12:49 [INFO    ] (save_ampl_results):     ✓ Exch_exp: 998400 rows
+25/11/19 20:12:49 [INFO    ] (save_ampl_results):     ✓ Transfer_capacity: 2600 rows
+25/11/19 20:14:35 [INFO    ] (save_ampl_results):     ✓ Storage_in: 27648000 rows
+25/11/19 20:16:19 [INFO    ] (save_ampl_results):     ✓ Storage_out: 27648000 rows
+25/11/19 20:16:55 [INFO    ] (save_ampl_results):     ✓ Storage_level: 12614400 rows
+25/11/19 20:16:57 [INFO    ] (save_ampl_results):     ✓ End_uses: 768000 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ Curt: 4131840 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ F_new: 9415 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ F_old: 9415 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ F_ant_old: 9415 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ F_decom: 65905 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ C_inv_phase_tech: 9415 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ C_op_phase_tech: 9415 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ C_op_phase_res: 1365 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):   Extracting parameters...
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ t_op: 384 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ tau: 10760 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ lifetime: 10760 rows
+25/11/19 20:17:10 [INFO    ] (save_ampl_results):     ✓ layers_in_out: 108800 rows
+25/11/19 20:17:11 [INFO    ] (save_ampl_results): 
+✓ AMPL results cached successfully!
+25/11/19 20:17:11 [INFO    ] (save_ampl_results):   Location: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/ampl_results_cache.pkl
+25/11/19 20:17:11 [INFO    ] (save_ampl_results):   Size: 1059.6 MB
+25/11/19 20:17:11 [INFO    ] (save_ampl_results):   Variables: 26
+25/11/19 20:17:11 [INFO    ] (save_ampl_results):   Parameters: 4
+25/11/19 20:17:24 [INFO    ] (get_year_results_pathway): Getting year summary (pathway)
+25/11/19 20:17:24 [INFO    ] (get_total_cost_pathway): Getting TotalCost (pathway)
+25/11/19 20:17:24 [INFO    ] (get_cost_breakdown_pathway): Getting Cost_breakdown (pathway)
+25/11/19 20:17:24 [INFO    ] (get_cost_breakdown_pathway): Successfully extracted tau parameter from AMPL and annualized C_inv
+25/11/19 20:17:24 [INFO    ] (get_gwp_breakdown_pathway): Getting Gwp_breakdown (pathway)
+25/11/19 20:17:24 [INFO    ] (get_gwp_breakdown_pathway): Successfully used lifetime from AMPL for GWP annualization
+25/11/19 20:17:24 [INFO    ] (get_resources_and_exchanges_pathway): Getting Resources and Exchanges (pathway)
+25/11/19 20:17:45 [INFO    ] (get_resources_and_exchanges_pathway): Successfully calculated exchanges and transfer capacity
+25/11/19 20:17:46 [INFO    ] (get_assets_pathway): Getting Assets (pathway)
+25/11/19 20:21:41 [INFO    ] (get_assets_pathway): Storage_in index names from AMPL: ['Years', 'Regions', 'I in storage_tech', 'Layers', 'Hours', '\n  typical_days']
+25/11/19 20:21:41 [INFO    ] (get_assets_pathway): Storage_out index names from AMPL: ['Years', 'Regions', 'I in storage_tech', 'Layers', 'Hours', '\n  typical_days']
+25/11/19 20:21:41 [INFO    ] (get_assets_pathway): After standardization - Storage_in indices: ['Years', 'Regions', 'Storage_tech', 'Layers', 'Hours', 'Typical_days']
+25/11/19 20:21:41 [INFO    ] (get_assets_pathway): Grouping storage data by: ['Years', 'Regions', 'Storage_tech', 'Hours', 'Typical_days'] (summing over Layers)
+25/11/19 20:21:54 [INFO    ] (get_assets_pathway): Successfully calculated storage assets
+25/11/19 20:22:31 [INFO    ] (get_year_balance_pathway): Getting Year_balance (pathway)
+25/11/19 20:22:31 [INFO    ] (get_year_balance_pathway): Processing year_balance for year: 2015
+25/11/19 20:22:34 [INFO    ] (get_year_balance_pathway): Processing year_balance for year: 2021
+25/11/19 20:22:37 [INFO    ] (get_year_balance_pathway): Processing year_balance for year: 2025
+25/11/19 20:22:40 [INFO    ] (get_year_balance_pathway): Processing year_balance for year: 2030
+25/11/19 20:22:43 [INFO    ] (get_year_balance_pathway): Processing year_balance for year: 2035
+25/11/19 20:22:46 [INFO    ] (get_year_balance_pathway): Processing year_balance for year: 2040
+25/11/19 20:22:49 [INFO    ] (get_year_balance_pathway): Processing year_balance for year: 2045
+25/11/19 20:22:52 [INFO    ] (get_year_balance_pathway): Processing year_balance for year: 2050
+25/11/19 20:22:55 [INFO    ] (get_year_balance_pathway): Successfully calculated Year_balance with 12360 rows
+25/11/19 20:22:55 [INFO    ] (get_curt_pathway): Getting Curt (pathway)
+25/11/19 20:23:27 [INFO    ] (get_year_results_pathway): All pathway results extracted successfully
+25/11/19 20:23:27 [INFO    ] (print_pathway_results): Printing pathway results to CSV files
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved TotalCost.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Cost_breakdown.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Gwp_breakdown.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Transfer_capacity.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Exchanges_year.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Resources.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Assets.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Sto_assets.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Year_balance.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Curt.csv to regional_results/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved TotalCost.csv to outputs/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Cost_breakdown.csv to outputs/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Gwp_breakdown.csv to outputs/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Transfer_capacity.csv to outputs/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Exchanges_year.csv to outputs/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Resources.csv to outputs/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Assets.csv to outputs/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Sto_assets.csv to outputs/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Year_balance.csv to outputs/
+25/11/19 20:23:27 [INFO    ] (print_pathway_results):   Saved Curt.csv to outputs/
+25/11/19 20:23:28 [INFO    ] (print_pathway_results):   Saved Resources.csv (hourly) to hourly_results/
+25/11/19 20:23:31 [INFO    ] (print_pathway_results):   Saved Exchanges.csv (hourly) to hourly_results/
+25/11/19 20:23:38 [INFO    ] (print_pathway_results):   Saved Assets.csv (hourly) to hourly_results/
+25/11/19 20:23:40 [INFO    ] (print_pathway_results):   Saved Storage_power.csv (hourly) to hourly_results/
+25/11/19 20:24:03 [INFO    ] (print_pathway_results):   Saved Storage_level.csv (hourly) to hourly_results/
+25/11/19 20:24:11 [INFO    ] (print_pathway_results):   Saved Curt.csv (hourly) to hourly_results/
+25/11/19 20:24:11 [INFO    ] (print_pathway_results): All results saved successfully
+25/11/19 20:24:11 [INFO    ] (graph_cost_inv_phase_tech): Generating investment cost plots by technology category
+25/11/19 20:24:11 [INFO    ] (graph_cost_inv_phase_tech): Saved CSV: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/outputs/Cost_Inv_Phase/cost_inv_phase_tech.csv
+25/11/19 20:24:11 [INFO    ] (graph_cost_inv_phase_tech): Saved plots: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/outputs/Cost_Inv_Phase
+25/11/19 20:24:11 [INFO    ] (graph_cost_op_phase): Generating operation cost plots by category
+25/11/19 20:24:11 [INFO    ] (graph_cost_op_phase): Filtered out 2021 from phase data to avoid duplication with Cost_breakdown
+25/11/19 20:24:11 [INFO    ] (graph_cost_op_phase): Added Cost_breakdown data for first operational year 2021
+25/11/19 20:24:11 [WARNING ] (graph_cost_op_phase): Dropping 84 unmapped elements
+25/11/19 20:24:11 [INFO    ] (graph_cost_op_phase): Saved unmapped elements list to: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/outputs/Cost_Op_Phase/unmapped_elements.csv
+25/11/19 20:24:11 [INFO    ] (graph_cost_op_phase): Saved CSV: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/outputs/Cost_Op_Phase/cost_op_phase.csv
+25/11/19 20:24:12 [INFO    ] (graph_cost_op_phase): Saved plots: /home/pjimenez/ESMC_PTH/EnergyScope_Unif/case_studies/SIN_SA-BN_SA-PA_SA-TJ_SA-SC/PATHWAY_NZE_2015_2050/outputs/Cost_Op_Phase

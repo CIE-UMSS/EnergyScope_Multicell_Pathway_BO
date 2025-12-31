@@ -1,0 +1,30 @@
+Category;Subcategory;parameter name;HOUSEHOLDS;SERVICES;INDUSTRY;TRANSPORTATION;PUBLIC_LIGHTING;AGRICULTURE;MINING;FISHING_OTHERS;Units
+Electricity;Electricity;ELECTRICITY;930.0021167;1212.440521;29.29941668;0;0;0;0;0;[GWh]
+Lighting;Building lighting;LIGHTING_R_C;54.13533383;33.81507345;32.0513018;0;0;0;0;0;[GWh]
+Lighting;Public lighting;LIGHTING_P;0;2.995295359;0;0;57.91721112;0;0;0;[GWh]
+Heat;High temperature;HEAT_HIGH_T;0;0;15818.24241;0;0;0;0;0;[GWh]
+Heat;Space heating;HEAT_LOW_T_SH;23.84028841;0;0;0;0;0;0;0;[GWh]
+Heat;Hot water;HEAT_LOW_T_HW;1309.067659;154.1894476;0;0;0;0;0;0;[GWh]
+Heat;Cooking;COOKING;5322.661138;341.3090715;0;0;0;0;0;0;[GWh]
+Cold;Process cooling;PROCESS_COOLING;0;0;0;0;0;0;0;0;[GWh]
+Cold;Space cooling;SPACE_COOLING;1112.425455;0;0;0;0;0;0;0;[GWh]
+Cold;Food preservation;FOOD_PRESERVATION;383.6186926;0;0;0;0;0;0;0;[GWh]
+Mobility;Passenger;MOBILITY_PASSENGER;0;0;0;388146.9162;0;0;0;0;[Mpkm]
+Mobility;Freight;MOBILITY_FREIGHT;0;0;0;16693.25846;0;0;0;0;[Mtkm]
+Mobility;Long-haul passenger flights;AVIATION_LONG_HAUL;0;0;0;0;0;0;0;0;[Mpkm]
+Mobility;International shipping;SHIPPING;0;0;0;121.0827624;0;0;0;0;[Mtkm]
+Mechanical;Mechanical energy commercial;MECHANICAL_ENERGY_COMM;0;86.40267669;0;0;0;0;0;0;[GWh]
+Mechanical;Mechanical energy industrial;MECHANICAL_ENERGY_IND;0;0;1896.251271;0;0;0;0;0;[GWh]
+Mechanical;Mechanical energy agriculture mobility;MECHANICAL_ENERGY_MOV_AGR;0;0;0;0;0;56.23807056;0;0;[GWh]
+Mechanical;Mechanical energy agriculture fixed;MECHANICAL_ENERGY_FIX_AGR;0;0;0;0;0;256.9165641;0;0;[GWh]
+Mechanical;Mechanical energy mining;MECHANICAL_ENERGY_MIN;0;0;0;0;0;0;1921.673677;0;[GWh]
+Mechanical;Mechanical energy fishing;MECHANICAL_ENERGY_FISH_OTHERS;0;0;0;0;0;0;0;504.4456682;[GWh]
+Non-energy;Non-energy;NON_ENERGY;0;0;753.0305634;0;0;0;0;0;[GWh]
+;;;;;;;;;;;
+;;;;;;;;;;;
+;;;;;;0.00605684748128317000;;404961.257385611000;;;
+;;;;;;2350.94667153058000;;;;;
+;;;;;;385795.96949161500000;;;;;
+;;;;;;19165.28789399580000;;;;;
+;;;;;;;;;;;
+;;;;;;404961.25738561100000;;;;;

@@ -1,0 +1,82 @@
+# PES_seq_opti.dat
+# Sequence of optimization for the multi-regional pathway model
+# This file defines the years, phases, and optimization windows
+
+# Years in the analysis
+set YEARS := YEAR_2015 YEAR_2021 YEAR_2025 YEAR_2030 YEAR_2035 YEAR_2040 YEAR_2045 YEAR_2050;
+
+# Optimization phases (transitions between years) - WITHOUT P_ prefix as used in model
+set PHASE := 2015_2021 2021_2025 2025_2030 2030_2035 2035_2040 2040_2045 2045_2050;
+
+# Phase start and stop years
+set PHASE_START[2015_2021] := YEAR_2015;
+set PHASE_STOP[2015_2021] := YEAR_2021;
+
+set PHASE_START[2021_2025] := YEAR_2021;
+set PHASE_STOP[2021_2025] := YEAR_2025;
+
+set PHASE_START[2025_2030] := YEAR_2025;
+set PHASE_STOP[2025_2030] := YEAR_2030;
+
+set PHASE_START[2030_2035] := YEAR_2030;
+set PHASE_STOP[2030_2035] := YEAR_2035;
+
+set PHASE_START[2035_2040] := YEAR_2035;
+set PHASE_STOP[2035_2040] := YEAR_2040;
+
+set PHASE_START[2040_2045] := YEAR_2040;
+set PHASE_STOP[2040_2045] := YEAR_2045;
+
+set PHASE_START[2045_2050] := YEAR_2045;
+set PHASE_STOP[2045_2050] := YEAR_2050;
+
+# Years in optimization window (all years for full optimization)
+set YEARS_WND := YEAR_2021 YEAR_2025 YEAR_2030 YEAR_2035 YEAR_2040 YEAR_2045 YEAR_2050;
+
+# Phases in optimization window (all phases for full optimization)
+set PHASE_WND := 2021_2025 2025_2030 2030_2035 2035_2040 2040_2045 2045_2050;
+
+# Years up to current point (for full optimization, same as YEARS_WND)
+set YEARS_UP_TO := YEAR_2021 YEAR_2025 YEAR_2030 YEAR_2035 YEAR_2040 YEAR_2045 YEAR_2050;
+
+# Phases up to current point (for full optimization, same as PHASE_WND)
+set PHASE_UP_TO := 2021_2025 2025_2030 2030_2035 2035_2040 2040_2045 2045_2050;
+
+# First year in optimization
+set YEAR_ONE := YEAR_2015;
+
+# Year after first year
+set YEAR_ONE_NEXT := YEAR_2021;
+
+# Phase durations [years]
+param t_phase :=
+2015_2021    6
+2021_2025    4
+2025_2030    5
+2030_2035    5
+2035_2040    5
+2040_2045    5
+2045_2050    5
+;
+
+# Years from 2015 to each phase (for discounting)
+param diff_2015_phase :=
+2015_2021    3      # midpoint: 2018 - 2015 = 3
+2021_2025    8      # midpoint: 2023 - 2015 = 8
+2025_2030    12.5   # midpoint: 2027.5 - 2015 = 12.5
+2030_2035    17.5   # midpoint: 2032.5 - 2015 = 17.5
+2035_2040    22.5   # midpoint: 2037.5 - 2015 = 22.5
+2040_2045    27.5   # midpoint: 2042.5 - 2015 = 27.5
+2045_2050    32.5   # midpoint: 2047.5 - 2015 = 32.5
+;
+
+# Mapping phase to year
+param phase_to_year :=
+2015_2021    2021
+2021_2025    2025
+2025_2030    2030
+2030_2035    2035
+2035_2040    2040
+2040_2045    2045
+2045_2050    2050
+;

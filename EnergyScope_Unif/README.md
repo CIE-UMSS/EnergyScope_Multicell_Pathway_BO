@@ -10,7 +10,7 @@ You may cite it as follows:
 - [7], for the current code
 
 You are welcome to report any bugs related to the code to the following:    
- paolo.thiran@gmail.com
+ pabloadolfo24@gmail.com
  
 # Content #
 This folder contains EnergyScope MultiCell, the multi-regional extension of the whole energy system model EnergyScope.
@@ -80,9 +80,7 @@ Authors:
 - Stefano Moret, Ecole Polytechnique Fédérale de Lausanne (Switzerland), <moret.stefano@gmail.com> 
 - Gauthier Limpens, Université catholique de Louvain (Belgium), <gauthierLimpens@gmail.com> 
 - Paolo Thiran, Université catholique de Louvain (Belgium), <paolo.thiran@gmail.com>
-- Aurélia Hernandez, Université catholique de Louvain (Belgium).
-- Noé Cornet, Université catholique de Louvain (Belgium).
-- Pauline Eloy, Université catholique de Louvain (Belgium).
+- Pablo Jimenez Zabalaga, Université catholique de Louvain (Belgium), <pabloadolfojimenezzabalaga@gmail.com>
 
 # References:  #  
 [1] G. Limpens, S . Moret, H. Jeanmart, F. Maréchal (2019). EnergyScope TD: a novel open-source model for regional energy systems and its application to the case of Switzerland. https://doi.org/10.1016/j.apenergy.2019.113729	

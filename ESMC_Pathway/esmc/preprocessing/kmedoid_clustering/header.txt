@@ -1,0 +1,1 @@
+# Data file for the typical days selection (auto-generated)

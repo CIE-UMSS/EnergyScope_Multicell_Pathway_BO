@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Model outputs and run logs
+logs/
+case_studies/**/PATHWAY_*/
+*.pkl
+*.sol
+*.iis
+*.log
+log*.txt
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

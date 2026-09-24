@@ -1,0 +1,63 @@
+{
+    "i_rate" : 0.1,
+	"gwp_limit_overall": 11395,
+	"power_density_pv" : 0.2367,
+    "power_density_solar_thermal" : 0.3174,
+	"sm_max" : 4,
+	"c_grid_extra" : 367.8,
+	"loss_network" : {"ELECTRICITY": 0.141465570610, "HEAT_LOW_T_DHN": 5.0E-02},
+	"vehicule_capacity": {"CAR_PHEV": 50.4, "CAR_BEV": 50.4, "SUV_ELEC_PRIVATE": 50.4, "MOTORCYCLE_ELEC_PRIVATE": 50.4, "BUS_ELEC_PUBLIC": 360},
+	"batt_per_car": {"CAR_PHEV": 10.0, "CAR_BEV": 17.02, "SUV_ELEC_PRIVATE": 50, "MOTORCYCLE_ELEC_PRIVATE": 2.304, "BUS_ELEC_PUBLIC": 100},
+    "state_of_charge_ev" :	{
+			"CAR_PHEV" : [0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0],
+			"CAR_BEV" :  [0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0],
+			"SUV_ELEC_PRIVATE" : [0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0],
+			"MOTORCYCLE_ELEC_PRIVATE" : [0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0],
+			"BUS_ELEC_PUBLIC" : [0.0,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0]		
+	},
+	"time_series_mapping": {
+		"eud_params" : {"ELECTRICITY": "electricity_time_series",
+                          "HEAT_LOW_T_SH": "heating_time_series",
+                          "SPACE_COOLING": "cooling_time_series",
+                          "MOBILITY_PASSENGER": "mob_pass_time_series",
+                          "MOBILITY_FREIGHT": "mob_freight_time_series"},
+		"res_params": {"WIND_OFFSHORE": "WIND_OFFSHORE", "WIND_ONSHORE": "WIND_ONSHORE", "HYDRO_DAM": "HYDRO_DAM", "HYDRO_RIVER": "HYDRO_RIVER"},
+		"res_mult_params": {
+			"PV": ["PV_ROOFTOP", "PV_UTILITY"], 
+			"TIDAL": ["TIDAL_STREAM", "TIDAL_RANGE"],
+            "SOLAR": ["DHN_SOLAR", "DEC_SOLAR"],
+            "CSP": ["PT_COLLECTOR", "ST_COLLECTOR"]}
+		
+	},
+	"add_sets": {"END_USES_CATEGORIES" : {
+					  "ELECTRICITY" : ["ELECTRICITY"],
+					  "LIGHTING_R_C" : ["LIGHTING_R_C"],
+					  "LIGHTING_P" : ["LIGHTING_P"],
+					  "HEAT_HIGH_T" : ["HEAT_HIGH_T"],
+					  "HEAT_LOW_T" : ["HEAT_LOW_T_DHN", "HEAT_LOW_T_DECEN"],
+					  "SPACE_COOLING" : ["SPACE_COOLING"],
+					  "PROCESS_COOLING" : ["PROCESS_COOLING"],
+					  "FOOD_PRESERVATION" : ["FOOD_PRESERVATION"],
+					  "COOKING" : ["COOKING"],
+					  "MOBILITY_PASSENGER" : ["MOB_PUBLIC", "MOB_PRIVATE", "AVIATION_SHORT_HAUL"],
+					  "MOBILITY_FREIGHT" : ["MOB_FREIGHT_RAIL", "MOB_FREIGHT_BOAT", "MOB_FREIGHT_ROAD"],
+					  "AVIATION_LONG_HAUL": ["AVIATION_LONG_HAUL"],
+					  "SHIPPING": ["SHIPPING"],
+					  "MECHANICAL_ENERGY_COMM": ["MECHANICAL_ENERGY_COMM"],
+					  "MECHANICAL_ENERGY_IND": ["MECHANICAL_ENERGY_IND"],
+					  "MECHANICAL_ENERGY_MOV_AGR": ["MECHANICAL_ENERGY_MOV_AGR"],
+					  "MECHANICAL_ENERGY_FIX_AGR": ["MECHANICAL_ENERGY_FIX_AGR"],
+					  "MECHANICAL_ENERGY_MIN": ["MECHANICAL_ENERGY_MIN"],
+					  "MECHANICAL_ENERGY_FISH_OTHERS": ["MECHANICAL_ENERGY_FISH_OTHERS"],
+					  "NON_ENERGY" : ["AMMONIA", "METHANOL", "HVC"]
+				  },
+				  "EVs_BATT": ["PHEV_BATT", "BEV_BATT", "SUV_ELEC_PRIVATE_BATT", "MOTORCYCLE_ELEC_PRIVATE_BATT", "BUS_ELEC_PUBLIC_BATT"],
+		          "NOT_LAYERS": ["GASOLINE_RE", "DIESEL_RE", "LFO_RE", "JET_FUEL_RE", "GAS_RE", "H2_RE", "AMMONIA_RE", "METHANOL_RE", "CO2_EMISSIONS", "BIOMASS_RESIDUES", "ENERGY_CROPS_2", "CO2_EMISSIONS_CAPTURED", "CO2_EMISSIONS_ATM"],
+	            "RES_IMPORT_CONSTANT": ["GASOLINE", "DIESEL", "LFO", "JET_FUEL", "LPG", "GAS", "H2", "AMMONIA", "METHANOL",
+				        "GASOLINE_RE", "DIESEL_RE", "LFO_RE", "JET_FUEL_RE", "GAS_RE", "H2_RE", "AMMONIA_RE", "METHANOL_RE"],
+                "STORAGE_DAILY" : ["TS_DEC_HP_ELEC", "TS_DEC_THHP_GAS", "TS_DEC_COGEN_GAS", "TS_DEC_COGEN_OIL",
+                    "TS_DEC_ADVCOGEN_GAS", "TS_DEC_ADVCOGEN_H2", "TS_DEC_BOILER_GAS", "TS_DEC_BOILER_WOOD", "TS_DEC_BOILER_OIL",
+                    "TS_DEC_DIRECT_ELEC", "TS_DHN_DAILY", "BATT_LI", "TS_HIGH_TEMP"],
+				  "V2G": ["CAR_PHEV", "CAR_BEV", "SUV_ELEC_PRIVATE", "MOTORCYCLE_ELEC_PRIVATE", "BUS_ELEC_PUBLIC"]	  
+	}				
+}

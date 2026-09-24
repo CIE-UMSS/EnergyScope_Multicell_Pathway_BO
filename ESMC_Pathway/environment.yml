@@ -1,0 +1,13 @@
+name: esmc_pathway
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - numpy
+  - pandas
+  - plotly
+  - python-kaleido
+  - pip
+  - pip:
+      - amplpy
+      - tsam

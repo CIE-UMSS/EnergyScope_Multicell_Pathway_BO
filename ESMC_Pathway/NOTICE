@@ -1,0 +1,28 @@
+ESMC Pathway
+Copyright 2026 Pablo Jimenez Zabalaga
+
+This product is based on EnergyScope Multi-Cell and EnergyScope,
+Copyright (C) 2018-2024 Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+and Université catholique de Louvain (UCLouvain), Belgium,
+licensed under the Apache License, Version 2.0.
+Original EnergyScope Multi-Cell code: Paolo Thiran and co-authors.
+
+Acknowledging authorship:
+In the academic spirit of collaboration, the source code should be appropriately
+acknowledged in the resulting scientific disseminations. You may cite:
+- [1] for the EnergyScope project and modeling framework
+- [2] for the origins of the EnergyScope project
+- [3] for the EnergyScope MILP modeling framework
+- [4] for the Belgian version and the pathway formulation
+- [5] for the extension to a Multi-Cell version
+- [6] for EnergyScope Multi-Cell for the Western EU energy system
+- [7] for the EnergyScope Multi-Cell code
+
+References:
+[1] G. Limpens, S. Moret, H. Jeanmart, F. Maréchal (2019). EnergyScope TD: a novel open-source model for regional energy systems and its application to the case of Switzerland. https://doi.org/10.1016/j.apenergy.2019.113729
+[2] V. Codina Gironès, S. Moret, F. Maréchal, D. Favrat (2015). Strategic energy planning for large-scale energy systems: A modelling framework to aid decision-making. Energy, 90(PA1), 173–186. https://doi.org/10.1016/j.energy.2015.06.008
+[3] S. Moret, M. Bierlaire, F. Maréchal (2016). Strategic Energy Planning under Uncertainty: a Mixed-Integer Linear Programming Modeling Framework for Large-Scale Energy Systems. https://doi.org/10.1016/B978-0-444-63428-3.50321-0
+[4] Limpens, G. (2021). Generating energy transition pathways: application to Belgium.
+[5] Hernandez, A., Thiran, P., Jeanmart, H., & Limpens, G. (2020). EnergyScope Multi-Cell: A novel open-source model for multi-regional energy systems and application to a 3-cell, low-carbon energy system [UCLouvain]. http://hdl.handle.net/2078.1/thesis:25229
+[6] Cornet, N., Eloy, P., Jeanmart, H., & Limpens, G. (2021). Energy Exchanges between Countries for a Future Low-Carbon Western Europe By merging cells in EnergyScope MC to handle wider regions.
+[7] Thiran, P., Hernandez, A., Limpens, G., Prina, M. G., Jeanmart, H., & Contino, F. (2021). Flexibility options in a multi-regional whole-energy system: the role of energy carriers in the Italian energy transition. Proceedings of ECOS 2021, 1–12.

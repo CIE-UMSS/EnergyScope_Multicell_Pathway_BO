@@ -82,7 +82,7 @@ eu34_full_names = ['Albania', 'Austria', 'Bosnia and Herzegovina', 'Belgium', 'B
 
 # Defining codes for Bolivia (HASC code)
 bo_country_code = ['SIN-HL', 'SIN-LL', 'SIN-VL', 'SA-NO', 'SA-TJ', 'SA-SC']
-bo_full_names = ['SIN Highlands', 'SIN Lowlands', 'SIN Valleys', 'SA North', 'SA Tarija', 'SA Santa Cruz']
+bo_full_names = ['SIN Highlands', 'SIN Lowlands', 'SIN Valleys', 'SA Norte', 'SA Tarija', 'SA Santa Cruz']
 
 # dictionary for plotting
 color_dict = {

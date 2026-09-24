@@ -12,7 +12,7 @@ Main features:
 - Post-processing to CSV files and interactive plots (Plotly).
 
 The current case study is Bolivia with six regions: the national grid (SIN) split into
-Highlands, Lowlands and Valleys, and three isolated systems (North, Tarija, Santa Cruz).
+Highlands, Lowlands and Valleys, and three isolated systems (Norte, Tarija, Santa Cruz).
 
 ## Requirements
 
